@@ -1,0 +1,89 @@
+Akut Üst Solunum Yolu Enfeksiyonu
+Anemi
+Astım
+Atopik dermatit
+Atriyal Fibrilasyon
+Meme Hastalıkları ve Kanser Teşhisi
+Katarakt
+Kronik Obstrüktif Akciğer Hastalığı
+Kognitif Bozukluk
+Kolorektal Kanser Teşhisi
+Koroner Arter Hastalığı
+Diyabet
+Diyabet ve Kanser
+Diyabet ve Kardiyovasküler Hastalık
+Diyabet ve Kronik Böbrek Hastalığı
+Diyabet ve Diyet Yönetimi
+Diyabet ve Ruh Sağlığı
+Diyabet ve Hamilelik
+Diyabet ve Ramazan Orucu
+Diyabet ve Dermatoloji
+Yetişkinlerde Diyabet ve Cerrahi
+Çocuklarda Diyabet ve Cerrahi
+Diyabet ve Aşılama
+Hastanede Diyabet Bakımı
+Ergenlerde Diyabet
+Çocuklarda Diyabet
+Yaşlı yetişkinlerde diyabet
+Diyabetik Ayak
+Diyabetik Ketoasidoz
+Diyabetik Nöropati
+Diyabetik Retinopati
+Diyaliz ve Diyabet
+Direkt Etkili Oral Antikoagülanlar
+İlaç Etkileşimleri
+Böbrek Yetmezliğinde İlaç Kullanımı
+Dislipidemi
+Egzama
+Elektrokardiyogram
+Egzersiz
+Diyabetik Acil Durumlarda İlk Yardım
+Gastroözofageal Reflü Hastalığı
+Baş ağrısı
+Kalp Yetmezliği
+Hepatosteatozis
+Hiperkalsemi
+Hiperglisemik Hiperosmolar Durum
+Hipermagnezemi
+Hiperostozis Frontalis İnterna
+Hiperfosfatemi
+Hipertansiyon 
+Hipokalsemi
+Hipoglisemi
+Hipomagnezemi
+Hipoparatiroidizm
+Hipofosfatemi
+Hipofosfatazi
+Hipotansiyon
+Enfeksiyöz İshal
+Demir eksikliği anemisi
+Bel Ağrısı
+Alt Solunum Yolu Enfeksiyonları
+Yetişkinlerde Majör Depresif Bozukluklar
+Menopoz 
+Alkole Bağlı Olmayan Yağlı Karaciğer Hastalığı
+Alkole Bağlı Olmayan Steatohepatit
+Beslenme
+Obezite
+Onkojenik Osteomalazi
+Oral Antikoagülanın Selektif Olarak Kesilmesi
+Oral Antikoagülan Acil Reversiyon
+Osteoartrit
+Osteogenezis İmperfekta
+Osteomalazi
+Osteopetrozis
+Osteoporoz
+Kemik Paget Hastalığı
+Ağrı
+Polifarmasi
+Primer Hiperparatiroidizm
+Prostat Kanseri Teşhisi
+Uyuz
+Cilt Enfeksiyonları
+Birinci Basamakta Akciğer Kanseri Şüphesi
+Tiroid
+İdrar Yolu Enfeksiyonları
+Yetişkinlerde aşılama
+Venöz Tromboembolizm
+D Vitamini Eksikliği
+Varfarin

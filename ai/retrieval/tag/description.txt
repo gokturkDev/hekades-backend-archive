@@ -1,0 +1,355 @@
+Acute Upper Respiratory Tract Infection
+   - Expanded Tag Description: 
+   "Acute Upper Respiratory Tract Infection: Guidelines for the diagnosis, treatment, and management of acute infections of the upper respiratory tract, including the common cold, sinusitis, pharyngitis, and laryngitis. Focus on symptomatic relief, viral versus bacterial etiology, antibiotic stewardship, and prevention strategies. Considerations for differential diagnosis, especially distinguishing from more severe conditions such as influenza or pneumonia."
+
+Anemia
+   - Expanded Tag Description:
+   "Anemia: Comprehensive guidelines on the diagnosis and management of anemia, including iron deficiency, vitamin B12 deficiency, folate deficiency, hemolytic anemia, and anemia of chronic disease. This includes laboratory evaluation, treatment protocols such as iron supplementation, transfusions, and erythropoiesis-stimulating agents, and addressing underlying causes. Special considerations for populations such as children, pregnant women, and the elderly."
+
+Asthma
+   - Expanded Tag Description:
+   "Asthma: Guidelines covering the diagnosis, classification, and management of asthma, including the use of inhaled corticosteroids, bronchodilators, and leukotriene modifiers. Focus on asthma action plans, triggers, peak flow monitoring, and patient education. Also includes management of acute exacerbations, long-term control, and specific considerations for pediatric and adult populations."
+
+Atopic Dermatitis
+   - Expanded Tag Description:
+   "Atopic Dermatitis: Detailed guidelines on the diagnosis and management of atopic dermatitis, including skin barrier repair, use of topical corticosteroids, calcineurin inhibitors, and systemic treatments for severe cases. Emphasis on identification and avoidance of triggers, hydration strategies, and the role of environmental factors. Also includes patient education on chronic management and the psychosocial impact of the condition."
+
+Atrial Fibrillation
+   - Expanded Tag Description:
+   "Atrial Fibrillation: Guidelines for the diagnosis and management of atrial fibrillation, focusing on rate and rhythm control, anticoagulation therapy to prevent thromboembolic events, and the use of antiarrhythmic drugs. Includes considerations for cardioversion, catheter ablation, and the management of underlying conditions such as hypertension and heart failure. Special focus on stroke prevention strategies and patient risk stratification using tools like CHA2DS2-VASc."
+
+Breast Disease and Cancer Diagnosis
+   - Expanded Tag Description:
+   "Breast Disease and Cancer Diagnosis: Guidelines on the screening, diagnosis, and management of benign and malignant breast conditions, including fibrocystic breast disease, mastitis, and breast cancer. Includes the use of mammography, ultrasound, MRI, and biopsy techniques for diagnosis. Treatment guidelines for breast cancer encompass surgery, chemotherapy, radiation therapy, hormone therapy, and targeted biologics, with a focus on individualized care based on cancer subtype and stage."
+
+Cataract
+   - Expanded Tag Description:
+   "Cataract: Guidelines for the diagnosis and management of cataracts, including clinical evaluation and indications for cataract surgery. Emphasis on the use of intraocular lens (IOL) implantation, preoperative assessment, and postoperative care. Special considerations include managing cataracts in patients with comorbidities such as diabetes or glaucoma, and the impact of cataracts on vision-related quality of life."
+
+Chronic Obstructive Lung Disease
+   - Expanded Tag Description:
+   "Chronic Obstructive Pulmonary Disease: Guidelines covering the diagnosis, staging, and management of COPD, including the use of bronchodilators, corticosteroids, and pulmonary rehabilitation. Focus on smoking cessation, oxygen therapy, and the management of exacerbations. Includes strategies for monitoring disease progression and the prevention and treatment of complications such as respiratory infections and pulmonary hypertension."
+
+Cognitive Impairment
+   - Expanded Tag Description:
+   "Cognitive Impairment: Guidelines for the assessment and management of cognitive impairment, including mild cognitive impairment (MCI), dementia, and delirium. Focus on diagnostic tools such as neuropsychological testing and imaging, as well as pharmacological and non-pharmacological interventions. Emphasis on the importance of early detection, management of comorbidities, and support for caregivers. Special considerations include differentiating between various types of dementia (e.g., Alzheimer’s, vascular dementia) and addressing reversible causes."
+
+Colorectal Cancer Detection
+   - Expanded Tag Description:
+   "Colorectal Cancer Detection: Comprehensive guidelines for the screening, diagnosis, and management of colorectal cancer, including the use of fecal occult blood testing (FOBT), colonoscopy, and imaging techniques. Focus on early detection, staging, and the multidisciplinary management of colorectal cancer, including surgery, chemotherapy, radiation therapy, and targeted biologics. Emphasis on risk stratification, patient education, and follow-up care."
+
+1Coronary Artery Disease
+   - Expanded Tag Description:
+   "Coronary Artery Disease: Guidelines for the diagnosis, treatment, and prevention of coronary artery disease, including the use of lifestyle modifications, pharmacotherapy (e.g., antiplatelet agents, statins, beta-blockers), and interventional strategies such as percutaneous coronary intervention (PCI) and coronary artery bypass grafting (CABG). Includes the management of acute coronary syndromes (ACS), stable angina, and risk factor modification. Emphasis on long-term management, secondary prevention, and patient education."
+
+Diabetes
+   - Expanded Tag Description:
+   "Diabetes Mellitus: Comprehensive guidelines covering the diagnosis, treatment, and management of diabetes, including blood glucose monitoring, insulin therapy, oral hypoglycemic agents, lifestyle modifications, and the prevention and management of acute and chronic complications. Includes considerations for individualized care, patient education, and the role of continuous glucose monitoring (CGM) and insulin pumps."
+
+Diabetes and Cancer
+   - Expanded Tag Description:
+   "Diabetes and Cancer: Guidelines on the bidirectional relationship between diabetes and cancer, focusing on the increased risk of certain cancers in diabetic patients and the impact of cancer treatments on glycemic control. Includes management strategies for hyperglycemia during cancer therapy, the role of insulin resistance, and considerations for cancer screening in diabetic populations. Emphasizes the need for coordinated care between oncology and endocrinology."
+
+Diabetes and Cardiovascular Disease
+   - Expanded Tag Description:
+   "Diabetes and Cardiovascular Disease: Guidelines on the management of cardiovascular risk in patients with diabetes, including the use of antihypertensive agents, statins, antiplatelet therapy, and lifestyle interventions. Covers the prevention and treatment of conditions such as coronary artery disease, heart failure, and stroke in diabetic patients. Emphasizes the importance of early detection and aggressive risk factor modification."
+
+Diabetes and Chronic Kidney Disease
+   - Expanded Tag Description:
+   "Diabetes and Chronic Kidney Disease: Guidelines for the management of diabetic nephropathy, including screening for microalbuminuria, blood pressure control, and the use of renin-angiotensin-aldosterone system (RAAS) inhibitors. Focuses on slowing the progression of CKD, managing complications such as hyperkalemia and anemia, and preparing for potential dialysis or kidney transplantation. Emphasizes multidisciplinary care involving nephrology and endocrinology."
+
+Diabetes and Dietary Management
+   - Expanded Tag Description:
+   "Diabetes and Dietary Management: Guidelines on nutrition therapy for individuals with diabetes, including carbohydrate counting, glycemic index considerations, and the role of macronutrients in blood glucose control. Focuses on personalized meal planning, weight management, and the use of medical nutrition therapy (MNT) in both preventing and managing diabetes. Includes specific recommendations for different populations, such as children, pregnant women, and those with comorbid conditions."
+
+Diabetes and Mental Health
+   - Expanded Tag Description:
+   "Diabetes and Mental Health: Guidelines addressing the psychological aspects of living with diabetes, including the management of depression, anxiety, diabetes distress, and eating disorders. Emphasizes the importance of routine screening for mental health issues in diabetic patients, the role of behavioral therapy, and the integration of mental health support into diabetes care. Highlights the bidirectional impact of diabetes and mental health on each other."
+
+Diabetes and Pregnancy
+   - Expanded Tag Description:
+   "Diabetes and Pregnancy: Guidelines for the management of diabetes in pregnant women, including pregestational and gestational diabetes. Focuses on preconception care, tight glycemic control during pregnancy, monitoring fetal development, and managing potential complications such as preeclampsia and macrosomia. Emphasizes the importance of multidisciplinary care involving obstetrics, endocrinology, and pediatrics, as well as postpartum care and breastfeeding considerations."
+
+Diabetes and Ramadan Fasting
+   - Expanded Tag Description:
+   "Diabetes and Ramadan Fasting: Guidelines for managing diabetes during Ramadan, focusing on risk stratification, adjusting medication regimens, and preventing complications such as hypoglycemia and dehydration. Includes recommendations for pre-Ramadan assessments, dietary modifications, and patient education. Emphasizes the importance of individualized care plans and the role of continuous glucose monitoring (CGM) during fasting."
+
+Diabetes and Skin
+   - Expanded Tag Description:
+   "Diabetes and Skin: Guidelines on the identification and management of dermatological conditions associated with diabetes, including diabetic dermopathy, necrobiosis lipoidica, and acanthosis nigricans. Focuses on the prevention and treatment of skin infections, wound care, and the impact of glycemic control on skin health. Includes recommendations for daily skin care routines, early detection of complications, and referral to dermatology when necessary."
+
+Diabetes and Surgery in Adults
+   - Expanded Tag Description:
+   "Diabetes and Surgery in Adults: Guidelines for the perioperative management of adult diabetic patients, focusing on optimizing glycemic control before, during, and after surgery. Includes recommendations for adjusting insulin and oral hypoglycemic agents, monitoring blood glucose levels, and managing potential complications such as delayed wound healing and infections. Emphasizes the need for a multidisciplinary approach involving surgery, anesthesiology, and endocrinology."
+
+Diabetes and Surgery in Children
+   - Expanded Tag Description:
+   "Diabetes and Surgery in Children: Guidelines for managing pediatric diabetic patients undergoing surgery, focusing on perioperative glycemic control, anesthesia considerations, and the prevention of complications such as hypoglycemia and ketoacidosis. Includes recommendations for adjusting insulin therapy, monitoring blood glucose levels, and coordinating care between pediatric surgery, anesthesiology, and endocrinology."
+
+Diabetes and Vaccination
+   - Expanded Tag Description:
+   "Diabetes and Vaccination: Guidelines on the importance of vaccination in individuals with diabetes, focusing on the increased risk of infections such as influenza, pneumococcal disease, and hepatitis B. Includes recommendations for routine immunizations, timing of vaccinations, and managing potential interactions between vaccines and diabetes medications. Emphasizes patient education and the role of healthcare providers in promoting vaccine uptake."
+
+Diabetes Care in the Hospital
+   - Expanded Tag Description:
+   "Diabetes Care in the Hospital: Guidelines for the management of diabetic patients in inpatient settings, including monitoring and controlling blood glucose levels, adjusting insulin regimens, and preventing complications such as hyperglycemia, hypoglycemia, and diabetic ketoacidosis. Focuses on care coordination, transitions of care, and discharge planning. Emphasizes the importance of standardized protocols and staff education to improve patient outcomes."
+
+Diabetes in Adolescents
+   - Expanded Tag Description:
+   "Diabetes in Adolescents: Guidelines for the diagnosis and management of diabetes in adolescents, focusing on the unique challenges of this age group, including pubertal insulin resistance, adherence to treatment, and psychosocial issues. Includes recommendations for transitioning care from pediatric to adult services, promoting healthy lifestyle choices, and addressing mental health concerns such as depression and eating disorders. Emphasizes the importance of family involvement and patient education."
+
+Diabetes in Children
+   - Expanded Tag Description:
+   "Diabetes in Children: Guidelines for the management of diabetes in pediatric populations, including the diagnosis, treatment, and monitoring of Type 1 and Type 2 diabetes in children. Focuses on insulin therapy, dietary management, and the prevention of acute complications such as hypoglycemia and diabetic ketoacidosis. Includes recommendations for growth and development monitoring, school management plans, and family education and support."
+
+Diabetes in Older Adults
+   - Expanded Tag Description:
+   "Diabetes in Older Adults: Guidelines for managing diabetes in elderly populations, focusing on the complexities of care in this age group, including the presence of comorbidities, polypharmacy, and the risk of hypoglycemia. Includes recommendations for individualized glycemic targets, screening for cognitive impairment, and the management of frailty and functional decline. Emphasizes the importance of comprehensive geriatric assessment and multidisciplinary care."
+
+Diabetic Foot
+   - Expanded Tag Description:
+   "Diabetic Foot: Guidelines for the prevention, diagnosis, and management of diabetic foot complications, including neuropathy, ischemia, and infection. Focuses on regular foot exams, patient education on foot care, and the use of protective footwear. Includes recommendations for the management of foot ulcers, debridement, antibiotic therapy, and surgical interventions when necessary. Emphasizes the importance of early intervention to prevent amputations and improve outcomes."
+
+Diabetic Ketoacidosis
+   - Expanded Tag Description:
+   "Diabetic Ketoacidosis: Guidelines for the recognition and management of diabetic ketoacidosis, a life-threatening complication of diabetes characterized by hyperglycemia, ketosis, and metabolic acidosis. Includes recommendations for fluid resuscitation, insulin therapy, electrolyte replacement, and monitoring for complications such as cerebral edema. Emphasizes the importance of rapid diagnosis, patient education on prevention, and the role of continuous glucose monitoring (CGM) in high-risk patients."
+
+Diabetic Neuropathy
+   - Expanded Tag Description:
+   "Diabetic Neuropathy: Guidelines for the diagnosis and management of diabetic neuropathy, including peripheral, autonomic, and focal neuropathies. Focuses on symptom control, such as pain management with pharmacological and non-pharmacological therapies, and the prevention of complications like foot ulcers. Includes recommendations for regular screening, patient education on glycemic control, and multidisciplinary approaches involving neurology and podiatry."
+
+Diabetic Retinopathy
+   - Expanded Tag Description:
+   "Diabetic Retinopathy: Guidelines for the screening, diagnosis, and management of diabetic retinopathy, including the use of fundus photography, optical coherence tomography (OCT), and fluorescein angiography. Focuses on the prevention of vision loss through glycemic control, laser therapy, intravitreal injections, and vitrectomy when necessary. Emphasizes the importance of regular eye exams and coordination of care between ophthalmology and endocrinology."
+
+Dialysis and Diabetes
+   - Expanded Tag Description:
+   "Dialysis and Diabetes: Guidelines for the management of diabetic patients undergoing dialysis, focusing on the unique challenges of glycemic control in this population. Includes recommendations for adjusting insulin and oral hypoglycemic agents, managing dialysis-related complications, and coordinating care between nephrology and endocrinology. Emphasizes the importance of cardiovascular risk management, dietary modifications, and patient education to improve outcomes."
+
+Direct Oral Anticoagulants
+   - Expanded Tag Description:
+   "Direct Oral Anticoagulants : Guidelines on the use of DOACs, including agents like apixaban, rivaroxaban, dabigatran, and edoxaban, for the prevention and treatment of thromboembolic disorders. Focuses on indications, dosing strategies, monitoring requirements, and management of bleeding complications. Includes considerations for use in special populations such as those with renal impairment, the elderly, and during perioperative periods."
+
+Drug Interactions
+   - Expanded Tag Description:
+   "Drug Interactions: Guidelines for identifying and managing drug-drug and drug-food interactions that may affect the efficacy and safety of pharmacotherapy. Includes strategies for screening, adjusting dosages, and monitoring patients on polypharmacy. Emphasizes the importance of understanding the pharmacokinetics and pharmacodynamics of medications and the potential for interactions with over-the-counter drugs, herbal supplements, and dietary components."
+
+Drug Use in Renal Failure
+   - Expanded Tag Description:
+   "Drug Use in Renal Failure: Guidelines on the safe and effective use of medications in patients with renal impairment or end-stage renal disease (ESRD). Includes dose adjustment recommendations, avoidance of nephrotoxic agents, and monitoring for drug accumulation and toxicity. Focuses on the impact of renal clearance on drug pharmacokinetics and the importance of interdisciplinary care involving nephrology and pharmacy."
+
+Dyslipidemia
+   - Expanded Tag Description:
+   "Dyslipidemia: Guidelines for the diagnosis, risk assessment, and management of dyslipidemia, including hypercholesterolemia, hypertriglyceridemia, and mixed dyslipidemia. Covers lifestyle modifications, statin therapy, and the use of non-statin medications such as ezetimibe, PCSK9 inhibitors, and fibrates. Emphasizes the importance of individualized treatment goals based on cardiovascular risk stratification."
+
+Eczema
+   - Expanded Tag Description:
+   "Eczema (Atopic Dermatitis): Guidelines on the diagnosis and management of eczema, focusing on skin barrier repair, the use of emollients, and anti-inflammatory treatments such as topical corticosteroids and calcineurin inhibitors. Includes strategies for identifying and avoiding triggers, managing flare-ups, and addressing chronic pruritus. Emphasizes patient education on proper skincare routines and the psychosocial impact of eczema."
+
+Electrocardiogram
+   - Expanded Tag Description:
+   "Electrocardiogram: Guidelines for the interpretation of ECGs, including the identification of common and critical findings such as arrhythmias, ischemic changes, and electrolyte disturbances. Covers the basics of ECG waveforms, intervals, and axes, as well as advanced interpretation techniques. Emphasizes the role of ECG in the diagnosis and management of cardiovascular diseases and its use in monitoring treatment efficacy and detecting adverse drug effects."
+
+Exercise
+   - Expanded Tag Description:
+   "Exercise: Guidelines on the role of physical activity in the prevention and management of chronic diseases such as cardiovascular disease, diabetes, and obesity. Includes recommendations for different types of exercise (aerobic, resistance, flexibility) and their benefits on cardiovascular health, glucose metabolism, and mental well-being. Emphasizes the importance of individualized exercise prescriptions, safety considerations, and the role of exercise in overall health promotion."
+
+First Aid in Diabetic Emergencies
+   - Expanded Tag Description:
+   "First Aid in Diabetic Emergencies: Guidelines for the immediate management of acute diabetic emergencies, including hypoglycemia, hyperglycemic hyperosmolar state (HHS), and diabetic ketoacidosis (DKA). Focuses on recognizing early signs and symptoms, administering appropriate first aid (e.g., glucose administration for hypoglycemia), and seeking emergency medical care. Includes recommendations for patient and caregiver education to prevent and manage these emergencies."
+
+Gastroesophageal Reflux Disease
+   - Expanded Tag Description:
+   "Gastroesophageal Reflux Disease: Guidelines for the diagnosis and management of GERD, including lifestyle modifications, pharmacological treatments such as proton pump inhibitors (PPIs) and H2 receptor antagonists, and surgical options for refractory cases. Focuses on the prevention of complications such as esophagitis, Barrett's esophagus, and esophageal adenocarcinoma. Emphasizes patient education on dietary changes, weight management, and proper medication use."
+
+Headache
+   - Expanded Tag Description:
+   "Headache: Guidelines for the diagnosis and management of primary headaches, including tension-type headaches, migraines, and cluster headaches, as well as secondary headaches due to underlying conditions. Covers pharmacological treatments (e.g., NSAIDs, triptans, preventive therapies) and non-pharmacological approaches such as lifestyle modifications, stress management, and trigger avoidance. Emphasizes the importance of accurate diagnosis and individualized treatment plans."
+
+Heart Failure
+   - Expanded Tag Description:
+   "Heart Failure: Guidelines for the diagnosis, classification, and management of heart failure, including heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF). Focuses on pharmacological therapies such as ACE inhibitors, beta-blockers, diuretics, and newer agents like SGLT2 inhibitors, as well as device therapies and lifestyle modifications. Emphasizes the importance of early diagnosis, patient education, and multidisciplinary care to improve outcomes and quality of life."
+
+Hepatosteatozis
+   - Expanded Tag Description:
+   "Hepatosteatosis: Guidelines for the diagnosis and management of hepatosteatosis, including non-alcoholic fatty liver disease (NAFLD) and non-alcoholic steatohepatitis (NASH). Focuses on lifestyle interventions such as weight loss, dietary changes, and exercise, as well as pharmacological treatments under investigation. Includes recommendations for monitoring liver function and preventing progression to cirrhosis and hepatocellular carcinoma."
+
+Hypercalcemia
+   - Expanded Tag Description:
+   "Hypercalcemia: Guidelines for the diagnosis and management of hypercalcemia, focusing on the identification of underlying causes such as primary hyperparathyroidism, malignancy, and vitamin D toxicity. Includes recommendations for acute management with intravenous fluids, bisphosphonates, and calcitonin, as well as long-term treatment strategies. Emphasizes the importance of monitoring calcium levels, managing symptoms, and addressing the underlying etiology."
+
+Hyperglycaemic Hyperosmolar State
+   - Expanded Tag Description:
+   "Hyperglycaemic Hyperosmolar State: Guidelines for the recognition and management of HHS, a severe complication of diabetes characterized by extreme hyperglycemia, hyperosmolarity, and dehydration without significant ketoacidosis. Includes recommendations for aggressive fluid replacement, insulin therapy, electrolyte management, and monitoring for complications such as thrombosis and acute renal failure. Emphasizes the importance of early diagnosis, prevention strategies, and patient education."
+
+Hypermagnesemia
+   - Expanded Tag Description:
+   "Hypermagnesemia: Guidelines for the diagnosis and management of hypermagnesemia, often associated with renal failure, excessive magnesium supplementation, or medications. Includes recommendations for discontinuing magnesium-containing agents, intravenous calcium administration to antagonize the effects of magnesium, and supportive measures such as dialysis in severe cases. Emphasizes the importance of monitoring magnesium levels, especially in at-risk populations."
+
+Hyperostosis Frontalis Interna
+   - Expanded Tag Description:
+   "Hyperostosis Frontalis Interna: Guidelines for the recognition and management of hyperostosis frontalis interna, a condition characterized by thickening of the frontal bone of the skull. Typically an incidental finding on imaging, this condition is often asymptomatic but may be associated with neurological or psychiatric symptoms. Focuses on patient reassurance, symptomatic management if needed, and monitoring for any potential complications."
+
+Hyperphosphatemia
+   - Expanded Tag Description:
+   "Hyperphosphatemia: Guidelines for the diagnosis and management of hyperphosphatemia, commonly seen in patients with chronic kidney disease (CKD). Includes recommendations for dietary phosphate restriction, phosphate binders, and the management of associated conditions such as secondary hyperparathyroidism. Emphasizes the importance of regular monitoring of serum phosphate levels and managing potential complications like vascular calcification."
+
+Hypertension
+   - Expanded Tag Description:
+   "Hypertension: Comprehensive guidelines for the diagnosis, classification, and management of hypertension, including lifestyle modifications, pharmacological treatments (e.g., ACE inhibitors, ARBs, calcium channel blockers, diuretics), and monitoring strategies. Focuses on individualized treatment goals based on cardiovascular risk factors, comorbidities, and patient characteristics. Emphasizes the importance of early detection, adherence to therapy, and regular follow-up to prevent complications such as stroke, heart attack, and chronic kidney disease."
+
+Hypocalcemia
+   - Expanded Tag Description:
+   "Hypocalcemia: Guidelines for the diagnosis and management of hypocalcemia, focusing on identifying underlying causes such as hypoparathyroidism, vitamin D deficiency, and renal disease. Includes recommendations for acute management with intravenous calcium and long-term treatment with oral calcium and vitamin D supplements. Emphasizes the importance of monitoring calcium levels and addressing any associated complications, such as tetany or cardiac arrhythmias."
+
+Hypoglycemia
+   - Expanded Tag Description:
+   "Hypoglycemia: Guidelines for the recognition and management of hypoglycemia, particularly in patients with diabetes on insulin or sulfonylureas. Includes recommendations for immediate treatment with fast-acting carbohydrates, adjustments to medication regimens, and preventive strategies such as frequent glucose monitoring. Emphasizes the importance of patient education on recognizing symptoms, preventing episodes, and managing hypoglycemia unawareness."
+
+Hypomagnesemia
+   - Expanded Tag Description:
+   "Hypomagnesemia: Guidelines for the diagnosis and management of hypomagnesemia, which can result from malnutrition, chronic diarrhea, alcoholism, or diuretic use. Includes recommendations for oral or intravenous magnesium supplementation, monitoring for associated electrolyte imbalances (e.g., hypokalemia, hypocalcemia), and addressing the underlying cause. Emphasizes the importance of regular monitoring of magnesium levels, especially in at-risk populations."
+
+Hypoparathyroidism
+   - Expanded Tag Description:
+   "Hypoparathyroidism: Guidelines for the diagnosis and management of hypoparathyroidism, typically characterized by low calcium and high phosphate levels due to insufficient production of parathyroid hormone (PTH). Includes recommendations for calcium and vitamin D supplementation, monitoring of serum calcium and phosphate levels, and managing complications such as tetany and seizures. Emphasizes the importance of long-term follow-up and patient education on managing the condition."
+
+Hypophosphatemia
+   - Expanded Tag Description:
+   "Hypophosphatemia: Guidelines for the diagnosis and management of hypophosphatemia, which may occur due to malnutrition, refeeding syndrome, or renal losses. Includes recommendations for phosphate supplementation, either orally or intravenously, and monitoring for associated complications such as muscle weakness, respiratory failure, and hemolysis. Emphasizes the importance of identifying and treating the underlying cause to prevent recurrence."
+
+Hypophosphatasia
+   - Expanded Tag Description:
+   "Hypophosphatasia: Guidelines for the diagnosis and management of hypophosphatasia, a rare inherited disorder characterized by defective bone mineralization due to low activity of alkaline phosphatase. Includes recommendations for enzyme replacement therapy, management of skeletal and dental manifestations, and monitoring for complications such as fractures and respiratory issues. Emphasizes the importance of early diagnosis and a multidisciplinary approach to care."
+
+Hypotension
+   - Expanded Tag Description:
+   "Hypotension: Guidelines for the diagnosis and management of hypotension, including orthostatic hypotension and hypotension related to shock. Focuses on identifying the underlying causes, such as dehydration, blood loss, heart failure, or endocrine disorders, and implementing appropriate treatment strategies. Includes recommendations for fluid resuscitation, medication adjustments, and lifestyle modifications to prevent recurrent episodes. Emphasizes the importance of monitoring blood pressure and educating patients on recognizing symptoms."
+
+Infectious Diarrhea
+   - Expanded Tag Description:
+   "Infectious Diarrhea: Guidelines for the diagnosis, treatment, and prevention of infectious diarrhea, caused by bacterial, viral, or parasitic pathogens. Focuses on the importance of identifying the causative agent through stool analysis, managing dehydration with oral rehydration solutions, and the appropriate use of antibiotics or antiparasitic medications when indicated. Emphasizes preventive measures such as proper hygiene, food safety, and vaccination where applicable."
+
+Iron Deficiency Anemia
+   - Expanded Tag Description:
+   "Iron Deficiency Anemia: Guidelines for the diagnosis and management of iron deficiency anemia, including screening for underlying causes such as gastrointestinal bleeding, dietary insufficiency, or increased requirements during pregnancy. Includes recommendations for iron supplementation (oral or intravenous), dietary modifications, and monitoring of hemoglobin and ferritin levels. Emphasizes the importance of identifying and treating the root cause to prevent recurrence."
+
+Low Back Pain
+   - Expanded Tag Description:
+   "Low Back Pain: Guidelines for the assessment and management of acute and chronic low back pain. Focuses on differentiating between nonspecific back pain, radiculopathy, and serious underlying conditions such as spinal fractures or infections. Includes recommendations for pain management through pharmacological and non-pharmacological means, physical therapy, and patient education on ergonomics and exercise. Emphasizes the importance of early intervention to prevent chronic pain and disability."
+
+Lower Respiratory Tract Infections
+   - Expanded Tag Description:
+   "Lower Respiratory Tract Infections: Guidelines for the diagnosis and treatment of lower respiratory tract infections, including pneumonia, bronchitis, and bronchiolitis. Focuses on identifying the causative pathogen, whether viral, bacterial, or atypical, and tailoring antibiotic therapy accordingly. Includes recommendations for supportive care, prevention strategies such as vaccination, and management of complications like respiratory failure or sepsis. Emphasizes the importance of early and accurate diagnosis, especially in vulnerable populations like the elderly and those with chronic lung diseases."
+
+Major Depressive Disorder in Adults
+   - Expanded Tag Description:
+   "Major Depressive Disorder in Adults: Comprehensive guidelines for the diagnosis and management of major depressive disorder (MDD) in adults. Includes recommendations for screening, pharmacotherapy with antidepressants, psychotherapy options such as cognitive-behavioral therapy (CBT), and the management of treatment-resistant depression. Emphasizes the importance of monitoring for suicidal ideation, addressing comorbid conditions, and providing holistic care that includes lifestyle modifications and social support."
+
+Menopause
+   - Expanded Tag Description:
+   "Menopause: Guidelines for the management of menopause and associated symptoms such as hot flashes, mood changes, and osteoporosis. Includes recommendations for hormone replacement therapy (HRT), non-hormonal treatment options, and lifestyle modifications to manage symptoms and improve quality of life. Emphasizes the importance of individualized care, considering the patient's risk factors for cardiovascular disease, breast cancer, and other conditions. Also includes guidance on the management of perimenopausal symptoms and long-term health considerations."
+
+Nonalcoholic Fatty Liver Disease
+   - Expanded Tag Description:
+   "Nonalcoholic Fatty Liver Disease: Guidelines for the diagnosis and management of NAFLD, focusing on lifestyle interventions such as weight loss, dietary changes, and exercise to reduce liver fat. Includes recommendations for screening and monitoring for progression to nonalcoholic steatohepatitis (NASH), fibrosis, and cirrhosis. Emphasizes the importance of managing associated metabolic conditions like obesity, type 2 diabetes, and dyslipidemia."
+
+Nonalcoholic Steatohepatitis
+   - Expanded Tag Description:
+   "Nonalcoholic Steatohepatitis: Guidelines for the diagnosis and management of NASH, a more severe form of nonalcoholic fatty liver disease characterized by liver inflammation and damage. Focuses on the importance of lifestyle modifications, the potential role of pharmacotherapy, and monitoring for progression to advanced liver disease, including cirrhosis and hepatocellular carcinoma. Emphasizes the need for early diagnosis and aggressive management of metabolic risk factors."
+
+Nutrition
+   - Expanded Tag Description:
+   "Nutrition: Comprehensive guidelines on the role of nutrition in health promotion, disease prevention, and the management of chronic conditions. Includes recommendations for balanced diets, the management of specific dietary needs in various populations (e.g., children, pregnant women, the elderly), and the use of medical nutrition therapy in conditions such as diabetes, cardiovascular disease, and obesity. Emphasizes the importance of patient education on healthy eating patterns, the role of micronutrients, and the impact of nutrition on overall well-being."
+
+Obesity
+   - Expanded Tag Description:
+   "Obesity: Guidelines for the diagnosis, classification, and management of obesity, including the use of body mass index (BMI) and waist circumference for risk stratification. Focuses on lifestyle interventions such as diet, exercise, and behavioral therapy as the cornerstone of obesity management. Includes recommendations for pharmacotherapy and bariatric surgery in selected patients. Emphasizes the importance of a multidisciplinary approach to address comorbidities such as type 2 diabetes, hypertension, and cardiovascular disease."
+
+Oncogenic Osteomalacia
+   - Expanded Tag Description:
+   "Oncogenic Osteomalacia: Guidelines for the diagnosis and management of oncogenic osteomalacia, a rare paraneoplastic syndrome characterized by bone pain, muscle weakness, and fractures due to tumor-induced phosphate wasting. Includes recommendations for the identification and localization of the responsible tumor, surgical resection, and the management of hypophosphatemia with phosphate supplements and active vitamin D analogs. Emphasizes the importance of early detection and intervention to prevent long-term skeletal complications."
+
+Oral Anticoagulant Elective Interruption
+   - Expanded Tag Description:
+   "Oral Anticoagulant Elective Interruption: Guidelines for the management of patients requiring temporary interruption of oral anticoagulant therapy for elective procedures. Includes recommendations for assessing thromboembolic risk, timing the discontinuation and resumption of anticoagulants, and the use of bridging anticoagulation if necessary. Emphasizes individualized decision-making based on the type of anticoagulant, the patient's risk profile, and the specific procedure being performed."
+
+Oral Anticoagulant Emergency Reversal
+   - Expanded Tag Description:
+   "Oral Anticoagulant Emergency Reversal: Guidelines for the rapid reversal of oral anticoagulant effects in emergency situations, such as major bleeding or urgent surgery. Includes recommendations for the use of specific reversal agents (e.g., idarucizumab for dabigatran, andexanet alfa for factor Xa inhibitors) and supportive measures like fresh frozen plasma or prothrombin complex concentrates (PCCs). Emphasizes the importance of prompt assessment and intervention to reduce the risk of adverse outcomes."
+
+Osteoarthritis
+   - Expanded Tag Description:
+   "Osteoarthritis: Guidelines for the diagnosis and management of osteoarthritis, a degenerative joint disease characterized by the breakdown of cartilage and underlying bone. Focuses on symptom management through pharmacological treatments (e.g., NSAIDs, acetaminophen), non-pharmacological approaches (e.g., physical therapy, weight management), and surgical interventions such as joint replacement for advanced cases. Emphasizes the importance of early diagnosis, patient education on lifestyle modifications, and the use of assistive devices to improve quality of life."
+
+Osteogenesis Imperfecta
+   - Expanded Tag Description:
+   "Osteogenesis Imperfecta: Guidelines for the management of osteogenesis imperfecta, a genetic disorder characterized by fragile bones that break easily. Includes recommendations for fracture prevention, bisphosphonate therapy, surgical interventions, and physical therapy to improve mobility and bone strength. Focuses on the importance of a multidisciplinary approach involving orthopedic specialists, endocrinologists, and physical therapists to optimize patient outcomes and quality of life. Emphasizes the need for genetic counseling and support for affected families."
+
+Osteomalacia
+   - Expanded Tag Description:
+   "Osteomalacia: Guidelines for the diagnosis and treatment of osteomalacia, a condition characterized by softening of the bones due to impaired bone mineralization, often caused by vitamin D deficiency. Includes recommendations for vitamin D and calcium supplementation, treating underlying causes such as malabsorption or chronic kidney disease, and monitoring bone health through regular imaging and laboratory tests. Emphasizes the importance of early diagnosis and prevention of fractures through adequate nutrition and sun exposure."
+
+Osteopetrosis
+   - Expanded Tag Description:
+   "Osteopetrosis: Guidelines for the management of osteopetrosis, a rare inherited disorder characterized by excessively dense bones due to defective osteoclast function. Focuses on the diagnosis through imaging and genetic testing, and treatment options such as hematopoietic stem cell transplantation (HSCT) for severe cases, calcium and vitamin D supplementation, and management of complications like fractures and cranial nerve compression. Emphasizes the importance of a multidisciplinary approach involving hematologists, endocrinologists, and orthopedic specialists."
+
+Osteoporosis
+   - Expanded Tag Description:
+   "Osteoporosis: Comprehensive guidelines for the diagnosis, prevention, and management of osteoporosis, a condition characterized by low bone density and increased fracture risk. Includes recommendations for bone mineral density (BMD) testing, pharmacological treatments such as bisphosphonates, denosumab, and selective estrogen receptor modulators (SERMs), and lifestyle modifications like calcium and vitamin D supplementation, weight-bearing exercises, and fall prevention strategies. Emphasizes the importance of early detection, especially in postmenopausal women and elderly men, to prevent fractures and improve quality of life."
+
+Paget's Disease of Bone
+   - Expanded Tag Description:
+   "Paget's Disease of Bone: Guidelines for the diagnosis and management of Paget's disease, a chronic bone disorder characterized by abnormal bone remodeling, leading to bone enlargement and deformities. Includes recommendations for the use of bisphosphonates as the primary treatment to reduce bone turnover, pain management, and surgical interventions for complications such as fractures or severe deformities. Emphasizes the importance of regular monitoring of bone activity through biochemical markers and imaging, as well as patient education on disease progression and management."
+
+Pain
+   - Expanded Tag Description:
+   "Pain: Comprehensive guidelines for the assessment and management of pain, including acute, chronic, and neuropathic pain. Focuses on a multimodal approach using pharmacological treatments (e.g., NSAIDs, opioids, anticonvulsants), non-pharmacological therapies (e.g., physical therapy, cognitive-behavioral therapy), and interventional procedures like nerve blocks or spinal cord stimulation. Emphasizes individualized care plans based on the type and severity of pain, patient preferences, and the potential for addiction and abuse with opioid use."
+
+Polypharmacy
+   - Expanded Tag Description:
+   "Polypharmacy: Guidelines for the management of polypharmacy, defined as the concurrent use of multiple medications, particularly in elderly patients. Focuses on regular medication reviews to identify and discontinue unnecessary drugs, optimizing therapy through deprescribing, and monitoring for drug-drug interactions and adverse effects. Emphasizes the importance of patient education, involving patients in decision-making, and coordinating care among healthcare providers to minimize the risks associated with polypharmacy."
+
+Primary Hyperparathyroidism
+   - Expanded Tag Description:
+   "Primary Hyperparathyroidism: Guidelines for the diagnosis and management of primary hyperparathyroidism, a condition characterized by excessive secretion of parathyroid hormone (PTH) leading to hypercalcemia. Includes recommendations for surgical removal of the overactive parathyroid gland(s), monitoring calcium and bone density levels, and managing complications such as nephrolithiasis and osteoporosis. Emphasizes the importance of early detection, especially in asymptomatic individuals, and the role of imaging studies and intraoperative PTH monitoring in surgical planning."
+
+Prostate Cancer Diagnosis
+   - Expanded Tag Description:
+   "Prostate Cancer Diagnosis: Guidelines for the screening, diagnosis, and initial evaluation of prostate cancer. Includes recommendations for prostate-specific antigen (PSA) testing, digital rectal examination (DRE), and imaging studies such as MRI and prostate biopsy for definitive diagnosis. Emphasizes the importance of risk stratification, including the use of Gleason scores and staging, to guide treatment decisions. Discusses the role of active surveillance for low-risk cases, as well as the importance of patient education on the benefits and risks of various diagnostic procedures and treatment options."
+
+Scabies
+   - Expanded Tag Description:
+   "Scabies: Guidelines for the diagnosis and management of scabies, a contagious skin infestation caused by the Sarcoptes scabiei mite. Includes recommendations for the identification of characteristic signs such as intense itching and burrow tracks, and the use of topical scabicides like permethrin or oral ivermectin. Focuses on the importance of treating all close contacts, decontaminating clothing and bedding, and managing potential complications such as secondary bacterial infections. Emphasizes patient education on preventing reinfestation and the need for follow-up."
+
+Skin Infections
+   - Expanded Tag Description:
+   "Skin Infections: Guidelines for the diagnosis and management of common bacterial, viral, and fungal skin infections, including cellulitis, impetigo, herpes simplex, and dermatophytosis. Focuses on identifying the causative pathogen through clinical evaluation and laboratory tests, and selecting appropriate antimicrobial therapy. Includes recommendations for managing complications, preventing spread, and addressing antibiotic resistance. Emphasizes the importance of proper wound care, hygiene, and patient education on recognizing early signs of infection."
+
+Suspected Lung Cancer in Primary Care
+   - Expanded Tag Description:
+   "Suspected Lung Cancer in Primary Care: Guidelines for the early detection and referral of patients with suspected lung cancer in primary care settings. Includes recommendations for identifying red flags such as persistent cough, unexplained weight loss, and hemoptysis, and the use of chest X-rays and low-dose CT scans for initial assessment. Focuses on the importance of timely referral to specialist care for further diagnostic evaluation and staging. Emphasizes the role of patient education on risk factors, including smoking cessation, and the benefits of early detection."
+
+Thyroid
+   - Expanded Tag Description:
+   "Thyroid: Comprehensive guidelines for the evaluation and management of thyroid disorders, including hypothyroidism, hyperthyroidism, thyroid nodules, and thyroid cancer. Focuses on the use of thyroid function tests (TSH, free T4, and T3) for diagnosis, and treatment options such as levothyroxine for hypothyroidism and antithyroid drugs, radioactive iodine, or surgery for hyperthyroidism. Includes recommendations for the follow-up and monitoring of thyroid function, especially in pregnancy and in patients with a history of thyroid disease. Emphasizes the importance of patient education on recognizing symptoms and adherence to treatment."
+
+Urinary Tract Infections
+   - Expanded Tag Description:
+   "Urinary Tract Infections: Guidelines for the diagnosis, treatment, and prevention of urinary tract infections, including cystitis, pyelonephritis, and recurrent UTIs. Focuses on the identification of symptoms such as dysuria, frequency, and urgency, and the use of urine culture and sensitivity testing to guide antibiotic therapy. Includes recommendations for managing complicated UTIs, including in pregnant women, men, and patients with underlying urological conditions. Emphasizes the importance of preventive strategies, such as hydration, proper hygiene, and potentially prophylactic antibiotics for recurrent cases."
+
+Vaccination in Adults
+   - Expanded Tag Description:
+   "Vaccination in Adults: Guidelines for the administration of vaccines in adult populations, including routine immunizations such as influenza, pneumococcal, Tdap, and shingles vaccines. Focuses on recommendations for special populations, including the elderly, immunocompromised individuals, healthcare workers, and those with chronic conditions. Includes guidance on catch-up immunizations, travel vaccines, and the management of vaccine-related adverse events. Emphasizes the importance of patient education on vaccine-preventable diseases and the role of vaccines in public health."
+
+Venous Thromboembolism
+   - Expanded Tag Description:
+   "Venous Thromboembolism: Guidelines for the prevention, diagnosis, and management of venous thromboembolism, including deep vein thrombosis (DVT) and pulmonary embolism (PE). Focuses on risk assessment, the use of anticoagulants (e.g., heparin, warfarin, direct oral anticoagulants) for treatment, and strategies for long-term prevention of recurrence. Includes recommendations for diagnostic imaging, such as Doppler ultrasound and CT pulmonary angiography, and the management of complications like post-thrombotic syndrome. Emphasizes the importance of patient education on recognizing symptoms and adhering to anticoagulation therapy."
+
+Vitamin D Deficiency
+   - Expanded Tag Description:
+   "Vitamin D Deficiency: Guidelines for the diagnosis, treatment, and prevention of vitamin D deficiency, a common condition that can lead to bone disorders such as rickets, osteomalacia, and osteoporosis. Includes recommendations for screening high-risk populations, interpreting serum 25-hydroxyvitamin D levels, and prescribing appropriate supplementation (e.g., cholecalciferol or ergocalciferol). Focuses on the importance of dietary sources, safe sun exposure, and monitoring response to treatment. Emphasizes the role of vitamin D in overall health, including immune function and the prevention of chronic diseases."
+
+Warfarin
+   - Expanded Tag Description:
+   "Warfarin: Guidelines for the use and management of warfarin, a vitamin K antagonist used as an anticoagulant for preventing thromboembolic events in conditions such as atrial fibrillation, venous thromboembolism, and mechanical heart valves. Focuses on dosing strategies, including initiation and maintenance therapy, and the importance of regular monitoring of the international normalized ratio (INR) to ensure therapeutic levels. Includes recommendations for managing bleeding complications, drug interactions, and perioperative anticoagulation management. Emphasizes patient education on dietary considerations, adherence to therapy, and the importance of regular follow-up."

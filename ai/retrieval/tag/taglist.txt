@@ -1,0 +1,90 @@
+Acute Upper Respiratory Tract Infection
+Anemia
+Asthma
+Atopic dermatitis
+Atrial Fibrillation
+Breast Disease and Cancer Diagnosis
+Cataract
+Chronic Obstructive Lung Disease
+Cognitive Impairment
+Colorectal Cancer Detection
+Coronary Artery Disease
+Diabetes
+Diabetes and Cancer
+Diabetes and Cardiovascular Disease
+Diabetes and Chronic Kidney Disease
+Diabetes and Dietary Management
+Diabetes and Mental Health
+Diabetes and Pregnancy
+Diabetes and Ramadan Fasting
+Diabetes and Skin
+Diabetes and Surgery in Adults
+Diabetes and Surgery in Children
+Diabetes and Vaccination
+Diabetes Care in the Hospital
+Diabetes in Adolescents
+Diabetes in Children
+Diabetes in older adults
+Diabetic Foot
+Diabetic Ketoacidosis
+Diabetic Neuropathy
+Diabetic Retinopathy
+Dialysis and Diabetes
+Direct Oral Anticoagulants
+Drug Interactions
+Drug Use in Renal Failure
+Dyslipidemia
+Eczema
+Electrocardiogram
+Exercise
+First Aid in Diabetic Emergencies
+Gastroesophageal Reflux Disease
+Headache
+Heart Failure
+Hepatosteatozis
+Hypercalcaemia
+Hyperglycaemic Hyperosmolar State
+Hypermagnesaemia
+Hyperostosis Frontalis Interna
+Hyperphosphataemia
+Hypertension 
+Hypocalcaemia
+Hypoglycemia
+Hypomagnesaemia
+Hypoparathyroidism
+Hypophosphataemia
+Hypophosphatasia
+Hypotension
+Infectious Diarrhea
+Iron deficiency anaemia
+Low Back Pain
+Lower Respiratory Tract Infections
+Major Depressive Disorders in Adults
+Menopause
+Multiple Sclerosis
+Nonalcoholic Fatty Liver Disease
+Nonalcoholic Steatohepatitis
+Nutrition
+Obesity
+Oncogenic Osteomalacia
+Oral Anticoagulant Elective Interruption
+Oral Anticoagulant Emergency Reversal
+Osteoarthritis
+Osteogenesis Imperfecta
+Osteomalacia
+Osteopetrosis
+Osteoporosis
+Paget's Disease of Bone
+Pain
+Polypharmacy
+Primary Hyperparathyroidism
+Prostate Cancer Diagnosis
+Scabies
+Skin Infections
+Suspected Lung Cancer in Primary Care
+Thyroid
+Urinary Tract Infections
+Vaccination in adults
+Venous Thromboembolism
+Vitamin D Deficiency
+Warfarin

@@ -1,0 +1,1 @@
+The data layer contains the database connector, models and external data sources.

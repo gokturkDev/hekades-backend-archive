@@ -1,0 +1,18 @@
+{
+    "information": {
+        "Turkish": ["Sorgu İnceleniyor", "Referans Kaynaklar Seçiliyor", "Referans Kaynaklar İnceleniyor"],
+        "English": ["Analyzing Query", "Selecting Reference Sources", "Reviewing Reference Sources"],
+        "Arabic": ["تحليل الاستعلام", "اختيار مصادر المرجع", "مراجعة مصادر المرجع"]
+    },
+    "case": {
+        "Turkish": ["Vaka İnceleniyor", "Kaynaklar Vakaya Göre Sınıflandırılıyor", "Referans Kaynaklar Seçiliyor", "Vaka için Araştırma Yapılıyor", "Bilgiler Derleniyor"],
+        "English": ["Analyzing Case", "Classifying Reference Sources", "Selecting Reference Sources", "Researching for Case", "Compiling Information"],
+        "Arabic": ["تحليل الحالة", "تصنيف مصادر المرجع", "اختيار مصادر المرجع", "البحث عن الحالة", "تجميع المعلومات"]
+    },
+    "pubmed": {
+        "Turkish": ["Sorgu İnceleniyor", "Pubmed Araması Yapılıyor", "Bulgular Derleniyor"],
+        "English": ["Analyzing Query", "Searching Pubmed", "Compiling Findings"],
+        "Arabic": ["تحليل الاستعلام", "البحث في ببمد", "تجميع النتائج"]
+    }
+
+}

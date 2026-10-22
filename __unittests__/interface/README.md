@@ -1,0 +1,1 @@
+The interface layer contains a framework application code, schemas, routers and another web API-related stuff.

@@ -1,0 +1,46 @@
+✅{&4&}
+Kısaltmalar:
+	ABI: Ayak Bileği-Kol indeksi (Ankle-brachial index)
+	ACE-İ: Anjiyotensin konverting enzim inhibitörü
+	AKB: Arteriyel kan basıncı
+	APG: Açlık plazma glukozu
+	ARB: Anjiyotensin reseptör blokeri
+	ASA: Asetil salisilik asit
+	BKI: Beden kütle indeksi
+	DM: Diabetes mellitus
+	DPP-4: Dipeptidil peptidaz 4
+	EKG: Elektrokardiyografi
+	tGFH: Tahmini glomerüler filtrasyon hızı
+	GLP-1: Glukagon benzeri peptid 1
+	HbA1c: Glikozillenmiş hemoglobin
+	HT: Hipertansiyon
+	KAH: Koroner arter hastalığı
+	KB: Kan basıncı
+	KBH: Kronik böbrek hastalığı
+	KVH: Kardiyovasküler hastalık
+	LDL Kol: LDL Kolesterol
+	LIMA: Sol internal meme arteri
+	Mİ: Myokard enfarktüsü
+	NAFLD: Alkole bağlı olmayan yağlı karaciğer hastalığı
+	Non-HDL Kol: Non-HDL Kolesterol
+	NYHA: New York Kalp Cemiyeti
+	OGTT: Oral glukoz tolerans testi
+	OSAS: Obstruktif uyku apne sendromu
+	PPG: Postprandiyal glukoz
+	RAS: Renin anjiyotensin sistemi
+	SDBH: Son dönem böbrek hastalığı
+	SGLT2: Sodyum-glukoz ko-transporter-2
+	TEMD: Türkiye Endokrinoloji ve Metabolizma Derneği
+	TBT: Tıbbi beslenme tedavisi
+	THBHD : Türk Hipertansiyon ve Böbrek Hastalıkları Derneği
+	TİA: Geçici iskemik atak
+	TKD: Türk Kardiyoloji Derneği
+	TKŞ: Tokluk kan şekeri
+	TND: Türk Nefroloji Derneği✅.
+✅{&5&}
+Türkiye’deki 8 milyon diyabetlinin tanı ve tedavisinde endokrinoloji ve metabolizma hastalıkları uzmanları, aile hekimleri, iç hastalıkları uzmanları, nefroloji ve kardiyoloji uzmanları başta olmak üzere bir çok farklı disiplin görev almaktadır. Diyabetli bireyde iyi glisemi regülasyonunun yanı sıra, obezite, hipertansiyon, dislipidemi gibi eşlik eden hastalıkları ve gelişen komplikasyonları da uygun biçimde tedavi etmek gereklidir. Diyabet komplikasyonları arttıkça diğer branşların da tedavi yönetimine katılması gerekmektedir. Öte yandan, diyabetle ilgili bilgiler giderek artmakta, çeşitli uzmanlık dernekleri diyabet kılavuzları yayınlamakta ve bu kılavuzları sahada çalışan hekimlerin izlemesi güçleşmektedir. Diyabet tedavisinde görev alan tüm hekimler için kolay okunan, özet bir başvuru kaynağı hazırlamak ve hasta yaklaşımında standardı sağlamak önemlidir. Bu uzlaşı raporu Türkiye Endokrinoloji ve Metabolizma Derneği, Türk Kardiyoloji Derneği, Türk Nefroloji Derneği, Türk Hipertansiyon ve Böbrek Hastalıkları Derneğinin ortak gayretiyle diyabetin kardiyak ve renal komplikasyonlarını önlemek, bu komplikasyonları zamanında ve uygun yöntemlerle tespit etmek ve etkin biçimde yönetmek için stratejiler geliştirmek, uygulamak ve izlemek amacıyla hazırlanmıştır.
+{&7&}
+Kronik bulaşıcı olmayan hastalıkların yönetilmesi, Türkiye’nin karşı karşıya olduğu en önemli halk sağlığı sorunudur ve sağlık sistemine giderek daha fazla yük getirmektedir. Giderek daha fazla kalori alıp, daha az enerji harcayan, uyku uyanıklık dengesi bozulan, kimyasal kirleticilere sürekli maruz kalan insanın genetik yapısı, değişen çevre ve yaşam koşullarına yeterli uyum gösterememektedir{/1/}. Bu nedenle obezite, hipertansiyon (HT), dislipidemi ve bu hastalıkların çoğunlukla bir arada bulunduğu Tip 2 Diyabet (Tip 2 DM) sıklığı dünyada ve ülkemizde giderek artmaktadır{/1, 2, 3/}. Türkiye Tip 2 DM sıklığı açısından ne yazık ki Avrupa’da birinci durumdadır{/4/}. Ülkemizde yaklaşık 8 milyon erişkinde Tip 2 DM bulunduğu tahmin edilmektedir3. Üstelik, hem ülkemizde (TURDEP-2 Çalışması) hem de dünyada yapılan çalışmalar, her iki diyabetliden birinin tanı konulmamış durumda yaşamını sürdürdüğünü göstermektedir{/3, 4/}. Bu kadar çok sayıda hastanın etkin şekilde tespit ve tedavi edilebilmesi için birinci basamaktan itibaren hastaların izlenmesine, ve standart takip ve tedavi protokollerinin kullanılmasına ihtiyaç vardır.✅.
+✅ Türkiye, Avrupa ülkeleri içinde Tip 2 DM için en fazla harcama yapan ülkedir{/4/} ve bu maliyetin yaklaşık %75’ini diyabetin komplikasyonları için yapılan harcamalar oluşturmaktadır{/5/}. Diyabete bağlı mortalite ve morbiditenin en önemli nedenlerini ise kardiyovasküler ve renal komplikasyonlar oluşturmaktadır{/6, 7, 8/}. Ülkemizde diyabetli bireylerin metabolik kontrol durumunu araştıran en büyük ulusal çalışma olan Türkiye’de Erişkin Diyabet Hastalarının Glisemik ve Diğer Metabolik Parametrelerinin Değerlendirilmesi (TEMD Çalışması), Tip 2 DM’li bireylerin yarısında mikrovasküler komplikasyonların, dörtte birindeyse makrovasküler komplikasyonların bulunduğunu göstermiştir{/9/}. Söz konusu komplikasyonları önlemek Tip 2 DM’li bireylerin yaşam kalitesini ve beklenen yaşam süresini uzatacağı gibi, ülkemizin sağlık kaynaklarının da verimli ve etkili biçimde kullanılmasını sağlayacaktır.✅.
+
+✅Diyabetli bireylerde makro ve mikrovasküler komplikasyonların gelişmesini önlemek için kan şekerini kontrol altında tutmak son derece önemlidir{/10/}. Ancak diyabetin kardiyak ve renal sonuçlarını sadece glisemi regülasyonu ile önlemek mümkün değildir{/11, 12/}. Diyabete sıklıkla eşlik eden obezite, hipertansiyon (HT), dislipidemi gibi diğer hastalıklar da hiperglisemi, oksidatif stres, endotel disfonksiyonu, hiperkoagulabilite gibi pek çok mekanizmayla kardiyovasküler riskin artmasında rol oynarlar{/13/}. Bu nedenle diyabetli bireyi etkin biçimde tedavi etmek ve komplikasyon gelişmesini önlemek için diyabete eşlik eden tüm hastalıkların ve risk faktörlerinin kontrol altına alınması gereklidir. TEMD Çalışması sonuçlarına göre ülkemizde Tip 2 DM’li bireylerin %90’ında kilo fazlalığı ve obezite, %95’inde dislipidemi ve %75’inde HT bulunmaktadır{/9, 14, 15, 16/}. Ne yazık ki diyabete eşlik eden söz konusu hastalıkların ve risk faktörlerinin kontrol altına alınma oranları ülkemizde son derece düşüktür.{/14, 16/} HbA1c, arteriyel kan basıncı ve LDL-kolesterol düzeylerinin üçünün birden kontrol altında olma oranı Tip 2 DM’li bireylerde %10, Tip 1 DM’li bireylerde ise sadece %5 olarak bulunmuştur{/9/}.✅.
